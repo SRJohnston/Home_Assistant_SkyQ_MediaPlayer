@@ -80,7 +80,7 @@ FEATURE_BASE = (
     | MediaPlayerEntityFeature.TURN_ON
     | MediaPlayerEntityFeature.PAUSE
     | MediaPlayerEntityFeature.PLAY
-    # | MediaPlayerEntityFeature.STOP
+    | MediaPlayerEntityFeature.STOP
     | MediaPlayerEntityFeature.NEXT_TRACK
     | MediaPlayerEntityFeature.PREVIOUS_TRACK
     | MediaPlayerEntityFeature.SELECT_SOURCE
